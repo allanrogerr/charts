@@ -1,5 +1,5 @@
 # NOTE:
-# Recommended: **A new operator based [Helm Chart](https://github.com/minio/operator/tree/master/helm/minio-operator) replaces this project. This repository will be archived after April 2021**
+# Recommended: **A new operator based [Helm Chart](https://github.com/minio/operator/tree/master/helm/operator) replaces this project. This repository will be archived after April 2021**
 # **A vanilla helm chart is available here [Helm Chart Vanilla](https://github.com/minio/minio/tree/master/helm/minio) without the operator**.
 
 ```bash
